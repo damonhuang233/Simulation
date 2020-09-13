@@ -1,2 +1,2 @@
 # Simulation
-A simulation game using OpenCL
+A simulation game using parallel programming
