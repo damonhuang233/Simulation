@@ -1,2 +1,2 @@
 # Simulation
-A simulation game using parallel programming
+A simulation game using OMP parallel programming
